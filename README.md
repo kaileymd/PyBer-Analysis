@@ -16,8 +16,9 @@ As we might expect, the urban cities have the highest number of rides taken, and
 ### Fare Rates
 
 <img src="https://github.com/kaileymd/PyBer-Analysis/blob/main/analysis/Fig3.png" width="400"/> <img src="https://github.com/kaileymd/PyBer-Analysis/blob/main/analysis/Fig5.png" width="500"/>
+![fares_by_city_type.png](https://github.com/kaileymd/PyBer-Analysis/blob/main/analysis/fares_by_city_type.png)
 
-The box and whisker chart shows us that the fare rates across cities are similar, with urban rates averaging slightly lower and rural rates slightly higher.
+The box and whisker chart shows us that the fare rates across cities are similar to each other, with urban rates averaging slightly lower and rural rates slightly higher and remaining consistent over time.
 
 ### Number of Drivers
 
